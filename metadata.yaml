@@ -1,11 +1,16 @@
 _repo: Reminiscences-of-my-life-in-camp-with-the-33d-United-States-colored-troops-late-1st-SC-Volunt__73499
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73499-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Taylor, Susie King
     gutenberg_agent_id: '57097'
     url: http://www.gutenberg.org/2009/agents/57097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73499#Reminiscences-of-my-life-in-camp-with-the-33d-United-States-colored-troops-late-1st-SC-Volunt_
 gutenberg_issued: '2024-04-30'
 gutenberg_type: Text
 identifiers:
